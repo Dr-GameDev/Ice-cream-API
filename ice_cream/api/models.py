@@ -10,8 +10,8 @@ lower than should be the name, description of each ice-cream
     {name: "gelato", 
     description: {
         "origin": "Italy",
-        "flavors": [for flavor in "Pistachio, stracciatella, hazelnut, fior di latte, nocciola (hazelnut), chocolate, vanilla, fruit flavors like lemon, strawberry, mango, raspberry."],
-        "toppings": [for topping in "Candied fruits, nuts, limoncello, amaretto, balsamic vinegar, olive oil, dried herbs, cinnamon, nutmeg, lavender, rose"],
+        "flavors": ["pistachio, stracciatella, hazelnut, fior di latte, nocciola (hazelnut), chocolate, vanilla, fruit flavors like lemon, strawberry, mango, raspberry."],
+        "toppings": ["candied fruits, nuts, limoncello, amaretto, balsamic vinegar, olive oil, dried herbs, cinnamon, nutmeg, lavender, rose"],
         }, }
     
 """
